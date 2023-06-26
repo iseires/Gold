@@ -1,0 +1,43 @@
+.span {
+    color: gray;
+}
+
+.logo {
+    font-size: 20px;
+    margin-inline: 15px;
+}
+
+.nav {
+   display: flex;
+height: 80px;
+padding-inline: 30px;
+justify-content: space-between;
+align-items: center;
+}
+
+.input {
+    display: flex;
+    height: 30px;
+    font-size: 20px;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 3px;
+}
+
+.texts {
+    background-color: transparent;
+    font-family: poppins;
+    border-radius: 30px;
+    border: transparent;
+    background: none;
+        border: none;
+        width: 70px;
+        color: white;
+        outline: none;
+}
+
+.text:focus {
+    outline: none;
+} 
+

@@ -1,0 +1,24 @@
+   .app {
+        background: url("./image_processing20210506-13757-1clu6xy.png");
+        width: 100%;
+        height: auto;
+        background-size: cover;
+        background-position: center;
+        margin: 0;
+        padding: 0;
+   }
+
+   .main {
+     display: flex;
+     justify-content: space-between;
+     padding-inline: 30px;
+     width: 100%;
+     padding: 0;
+     margin: 0;
+   }
+
+   .side-1 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+   }

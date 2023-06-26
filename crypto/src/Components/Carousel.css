@@ -1,0 +1,26 @@
+.carousel {
+    width: 50%;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+}
+
+.img {
+    width: 40%;
+    height: auto;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.blue {
+    padding: 3px;
+    border-radius: 30px;
+    background-color: rgb(79, 79, 237);
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-block: 5px;
+}
